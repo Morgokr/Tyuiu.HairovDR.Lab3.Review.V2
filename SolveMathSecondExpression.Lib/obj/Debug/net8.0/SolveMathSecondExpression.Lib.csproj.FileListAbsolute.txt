@@ -1,0 +1,11 @@
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\bin\Debug\net8.0\SolveMathSecondExpression.Lib.deps.json
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\bin\Debug\net8.0\SolveMathSecondExpression.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\bin\Debug\net8.0\SolveMathSecondExpression.Lib.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.AssemblyInfoInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.AssemblyInfo.cs
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.csproj.CoreCompileInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\obj\Debug\net8.0\refint\SolveMathSecondExpression.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\obj\Debug\net8.0\SolveMathSecondExpression.Lib.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveMathSecondExpression.Lib\obj\Debug\net8.0\ref\SolveMathSecondExpression.Lib.dll
