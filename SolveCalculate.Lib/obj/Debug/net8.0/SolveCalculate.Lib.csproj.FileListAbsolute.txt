@@ -1,0 +1,11 @@
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\bin\Debug\net8.0\SolveCalculate.Lib.deps.json
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\bin\Debug\net8.0\SolveCalculate.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\bin\Debug\net8.0\SolveCalculate.Lib.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.AssemblyInfoInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.AssemblyInfo.cs
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.csproj.CoreCompileInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\obj\Debug\net8.0\refint\SolveCalculate.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\obj\Debug\net8.0\SolveCalculate.Lib.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveCalculate.Lib\obj\Debug\net8.0\ref\SolveCalculate.Lib.dll

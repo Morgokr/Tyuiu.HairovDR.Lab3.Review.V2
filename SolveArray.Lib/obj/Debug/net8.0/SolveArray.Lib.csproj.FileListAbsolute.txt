@@ -1,0 +1,11 @@
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\bin\Debug\net8.0\SolveArray.Lib.deps.json
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\bin\Debug\net8.0\SolveArray.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\bin\Debug\net8.0\SolveArray.Lib.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.AssemblyInfoInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.AssemblyInfo.cs
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.csproj.CoreCompileInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\obj\Debug\net8.0\refint\SolveArray.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\obj\Debug\net8.0\SolveArray.Lib.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveArray.Lib\obj\Debug\net8.0\ref\SolveArray.Lib.dll
