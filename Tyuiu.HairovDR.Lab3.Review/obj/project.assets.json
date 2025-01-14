@@ -1,0 +1,172 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SolveArray.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveArray.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveArray.Lib.dll": {}
+        }
+      },
+      "SolveCalculate.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveCalculate.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveCalculate.Lib.dll": {}
+        }
+      },
+      "SolveMathFirstExpression.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveMathFirstExpression.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveMathFirstExpression.Lib.dll": {}
+        }
+      },
+      "SolveMathSecondExpression.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveMathSecondExpression.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveMathSecondExpression.Lib.dll": {}
+        }
+      },
+      "SolveTabMathFuction.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SolveTabMathFuction.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolveTabMathFuction.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolveArray.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveArray.Lib/SolveArray.Lib.csproj",
+      "msbuildProject": "../SolveArray.Lib/SolveArray.Lib.csproj"
+    },
+    "SolveCalculate.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveCalculate.Lib/SolveCalculate.Lib.csproj",
+      "msbuildProject": "../SolveCalculate.Lib/SolveCalculate.Lib.csproj"
+    },
+    "SolveMathFirstExpression.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveMathFirstExpression.Lib/SolveMathFirstExpression.Lib.csproj",
+      "msbuildProject": "../SolveMathFirstExpression.Lib/SolveMathFirstExpression.Lib.csproj"
+    },
+    "SolveMathSecondExpression.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveMathSecondExpression.Lib/SolveMathSecondExpression.Lib.csproj",
+      "msbuildProject": "../SolveMathSecondExpression.Lib/SolveMathSecondExpression.Lib.csproj"
+    },
+    "SolveTabMathFuction.Lib/1.0.0": {
+      "type": "project",
+      "path": "../SolveTabMathFuction.Lib/SolveTabMathFuction.Lib.csproj",
+      "msbuildProject": "../SolveTabMathFuction.Lib/SolveTabMathFuction.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SolveArray.Lib >= 1.0.0",
+      "SolveCalculate.Lib >= 1.0.0",
+      "SolveMathFirstExpression.Lib >= 1.0.0",
+      "SolveMathSecondExpression.Lib >= 1.0.0",
+      "SolveTabMathFuction.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hairo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\Tyuiu.HairovDR.Lab3.Review\\Tyuiu.HairovDR.Lab3.Review.csproj",
+      "projectName": "Tyuiu.HairovDR.Lab3.Review",
+      "projectPath": "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\Tyuiu.HairovDR.Lab3.Review\\Tyuiu.HairovDR.Lab3.Review.csproj",
+      "packagesPath": "C:\\Users\\hairo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\Tyuiu.HairovDR.Lab3.Review\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hairo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveArray.Lib\\SolveArray.Lib.csproj": {
+              "projectPath": "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveArray.Lib\\SolveArray.Lib.csproj"
+            },
+            "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveCalculate.Lib\\SolveCalculate.Lib.csproj": {
+              "projectPath": "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveCalculate.Lib\\SolveCalculate.Lib.csproj"
+            },
+            "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveMathFirstExpression.Lib\\SolveMathFirstExpression.Lib.csproj": {
+              "projectPath": "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveMathFirstExpression.Lib\\SolveMathFirstExpression.Lib.csproj"
+            },
+            "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveMathSecondExpression.Lib\\SolveMathSecondExpression.Lib.csproj": {
+              "projectPath": "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveMathSecondExpression.Lib\\SolveMathSecondExpression.Lib.csproj"
+            },
+            "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveTabMathFuction.Lib\\SolveTabMathFuction.Lib.csproj": {
+              "projectPath": "C:\\Users\\hairo\\source\\repos\\Tyuiu.HairovDR.Lab3.Review\\SolveTabMathFuction.Lib\\SolveTabMathFuction.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
