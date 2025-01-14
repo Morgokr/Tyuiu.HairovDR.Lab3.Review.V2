@@ -1,0 +1,11 @@
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\bin\Debug\net8.0\SolveTabMathFuction.Lib.deps.json
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\bin\Debug\net8.0\SolveTabMathFuction.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\bin\Debug\net8.0\SolveTabMathFuction.Lib.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.AssemblyInfoInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.AssemblyInfo.cs
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.csproj.CoreCompileInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\obj\Debug\net8.0\refint\SolveTabMathFuction.Lib.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\obj\Debug\net8.0\SolveTabMathFuction.Lib.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab3.Review\SolveTabMathFuction.Lib\obj\Debug\net8.0\ref\SolveTabMathFuction.Lib.dll
